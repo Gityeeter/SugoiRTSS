@@ -16,11 +16,11 @@ Overlay program for Sugoi Japanese Translator to view translation in any fullscr
 
 -> Now run rivatuner statistics server
 
--> Then open your VN and hook it using textractor(or any other program) and launch sugoi translator
+-> Then open your Application and hook it using textractor(or any other program) and launch sugoi translator
 
 -> Now launch SugoiRTSS.exe from the same folder.
 
--> Sugoi's text will be mirrored in the VN via OSD even in fullscreen.
+-> Sugoi's text will be mirrored in the Application via OSD even in fullscreen.
 
 If you want the change the size of the font or color, you can do so by double clicking the rivatuner icon in the system tray. You can also move the translation around by using the arrow keys in fullscreen.
 
