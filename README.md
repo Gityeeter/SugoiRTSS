@@ -1,6 +1,6 @@
 -> SugoiRTSS <-
 
-Overlay program for Sugoi Japanese Translator <br/>
+Overlay program for Sugoi Japanese Translator to view translation in any fullscreen windows application.<br/>
 
 -> Usage <-
 
