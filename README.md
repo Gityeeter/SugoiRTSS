@@ -1,4 +1,5 @@
 -> SugoiRTSS <-
+
 Overlay program for Sugoi Japanese Translator <br/>
 
 -> Usage <-
@@ -24,5 +25,6 @@ Overlay program for Sugoi Japanese Translator <br/>
 If you want the change the size of the font or color, you can do so by double clicking the rivatuner icon in the system tray. You can also move the translation around by using the arrow keys in fullscreen.
 
 -> Thanks <-
+
 This project uses https://github.com/damob-byun/OpenRtssText as the base. Thank you Damon.
 
